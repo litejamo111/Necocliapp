@@ -1,0 +1,46 @@
+<resources>
+    //home
+    <string name="app_name">Necocli</string>
+    <string name="main">Necocli Antioquia</string>
+    <string name="mhotel">Hoteles</string>
+    <string name="mrestaurant">Restaurantes</string>
+    <string name="msitios">Sitios Turisticos</string>
+    //hoteles
+    <string name="titulohomehoteles">Hoteles en Necocli</string>
+    <string name="descripcionhomehoteles">En nuestro pueblo encontrara alojamientos desde 35000 COP
+        hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
+    <string name="botonhomehoteles">Ver Hoteles</string>
+    <string name="hotel1">Hotel costa norte</string>
+    <string name="dhotel1">Hotel Costa Norte se encuentra en Necoclí, a 6 min a pie de Playa El Pescador y a 700 metros de Playa El Turista,
+        y dispone de zona de playa privada.</string>
+    <string name="hotel2">Hotel la ensenada</string>
+    <string name="dhotel2">Hotel La Ensenada Necocli está en Necoclí, a 3 min a pie de Playa El Turista, y dispone de alojamiento con jardín,
+        parking privado gratis y terraza.</string>
+    <string name="hotel3">Hotel casa blanca</string>
+    <string name="dhotel3">HOTEL CASA BLANCA está en Necoclí y tiene restaurante y bar. Este hotel de 5 estrellas ofrece jardín y
+        tiene habitaciones con aire acondicionado, wifi gratis y baño privado.
+    </string>
+    //restaurantes
+    <string name="titulorestaurantes">Restaurantes en Necocli</string>
+    <string name="descripcionrestaurantes">En nuestro pueblo encontrara restaurantes desde 35000 COP
+        hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
+    <string name="botonrestaurantes">Ver restaurantes</string>
+    <string name="res1">Restaurante y hotel mar adentro</string>
+    <string name="dres1">Es un hotel agradable y barato. Muy central y con excelente atención. Frente al mar buen servicio de mesas.</string>
+    <string name="res2">Restaurante ISY (24 horas)</string>
+    <string name="dres2">Buena calidad a precios muy bajos, para los comelones la solución es pedir doble porción, jajaja</string>
+    <string name="res3">Restaurante el ganadero</string>
+    <string name="dres3">La comida bastante buena, los frijoles estaban deliciosos. La atención bastante amable y
+        los precios razonables para la cantidad de comida que sirven.</string>
+    //sitios
+    <string name="titulositios">Sitios Turisticos en Necocli</string>
+    <string name="descripcionsitios">En nuestro pueblo encontrara sitios turisticos desde 35000 COP
+        hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
+    <string name="botonsitios">Ver sitios turisticos</string>
+    //menu
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Portuges</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+</resources>

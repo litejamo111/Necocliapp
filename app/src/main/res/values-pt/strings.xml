@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hoteles en SanRafa</string>
+    <string name="descripcionhomehoteles">Em nossa vila você vai encontrar alojamento a partir de 35000 COP a cabines luxuosas equipadas com todos os elementos para promover um descanso restaurador. Visitar</string>
+    <string name="botonhomehoteles">Ver Hoteles</string>
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Portuguese</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+</resources>
